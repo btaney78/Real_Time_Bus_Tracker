@@ -5,10 +5,11 @@
 1. Create a Google Cloud project at the following link:  
     https://developers.google.com/maps/documentation/javascript/cloud-setup
 2. Create an API key for the Google Cloud project you created. Link for this is below:
+   
     https://developers.google.com/maps/documentation/javascript/get-api-key
-4. Take the API Key you created in the previous step and then replace ‘APIKey’ text in the line below from the ‘index.html’ file.  This code is in line 8 of the 'index.html' file.
+3. Take the API Key you created in the previous step and then replace ‘APIKey’ text in the line below from the ‘index.html’ file.  This code is in line 8 of the 'index.html' file.
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=APIKey=initMap"></script>
-5. Load the 'index.html' file to an Internet browser (Chrome, etc.)  
+4. Load the 'index.html' file to an Internet browser (Chrome, etc.)  
 
 **Roadmap for future improvements:**
 * Add bus # to the message when user hovers over a bus marker
