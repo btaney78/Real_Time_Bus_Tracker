@@ -9,11 +9,12 @@
     https://developers.google.com/maps/documentation/javascript/get-api-key
 3. Take the API Key you created in the previous step and then replace ‘APIKey’ text in the line below from the ‘index.html’ file.  This code is in line 8 of the 'index.html' file.
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=APIKey=initMap"></script>
-4. Load the 'index.html' file to an Internet browser (Chrome, etc.)  
+4. Download the following files in this respository: index.html, mapanimation.js, style.css, blue.png, & red.png. Save them locally, and then load the 'index.html' file to an Internet browser (Chrome, etc.).  
 
-**Roadmap for future improvements:**
+**Roadmap for future improvements:**  
+
+By June 30th:
 * Add bus # to the message when user hovers over a bus marker
-* Add multiple bus routes to the map
 * Make formatting improvements to the map  
 
 **Licence information:**  
